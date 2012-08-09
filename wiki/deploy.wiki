@@ -1,3 +1,10 @@
+= pytfs =
+== 本代码库为python-tfs-module，有1.3版本。最近更新2.0版本,详看代码的README ==
+== pytfs在长期生产环境下使用过 ==
+== 而nginx-tfs-module只适用于tfs-1.3版本，且只算是实验室版本 ==
+
+
+
 #安装配置
 
 *1)编译前先确定tfsclient已被安装。或[http://code.taobao.org/trac/tfs/wiki/deploy 直接安装tfs]
